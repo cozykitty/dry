@@ -20,6 +20,7 @@ hey! this is a low-key way to track dry days — no pressure, just good vibes.  
 | 2025-06-12 | ❌       | had darkbeer and redwine cooked in a meal          |
 |            |          | "dark beer goulash"                                 |
 | 2025-06-13 | ✅       | no alcohol                                         |
+| 2025-06-14 | ✅       | swimming with  friends, no alcohol                 |
 ```
 legend:
 ✅ = no alcohol
